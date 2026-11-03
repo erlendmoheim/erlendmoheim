@@ -1,3 +1,11 @@
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="Erlend Moheim GitHub profile" src="dark_mode.svg" width="100%">
+</picture>
+
+
 # Erlend Moheim
 
 I'm a Computer Engineering student at HVL (Western Norway University of Applied Sciences), based in Bergen and graduating in June 2027. My interests include cloud infrastructure, networking, security and AI-assisted development.
